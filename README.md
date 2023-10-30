@@ -1,0 +1,2 @@
+# Mystoragefile
+storage file
